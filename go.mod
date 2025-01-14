@@ -1,6 +1,6 @@
 module github.com/ericwb/gh-org
 
-go 1.17
+go 1.23
 
 require github.com/cli/go-gh v2.11.2
 
