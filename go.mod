@@ -1,8 +1,8 @@
 module github.com/ericwb/gh-org
 
-go 1.23
+go 1.23.0
 
-require github.com/cli/go-gh v2.11.2
+require github.com/cli/go-gh v2.12.0
 
 require (
 	github.com/cli/safeexec v1.0.1 // indirect
